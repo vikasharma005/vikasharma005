@@ -1,4 +1,6 @@
-<p align = "center"><img src = "https://user-images.githubusercontent.com/76098066/186107450-2f4eed66-d758-40bc-9414-f4049f4c5386.png" alt = "My Banner"></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <h3 align = "center">Hi there 👋, I'm Vikas</h3>
 <h4 align = "center">Just learning New Skills😀</h4>
@@ -60,4 +62,4 @@
 
 ## 📈 Quine Stats
 <a href="https://quine.sh/profile/vikasharma005"><img src="https://stats.quine.sh/vikasharma005/github" alt="Vikas Sharma's GitHub stats" width="340px"></a>
-![Vikas Sharma's Stack Overflow achievements](https://stats.quine.sh/201464505/stack-overflow)
+
