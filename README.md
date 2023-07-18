@@ -60,4 +60,4 @@
 
 ## 📈 Quine Stats
 <a href="https://quine.sh/profile/vikasharma005"><img src="https://stats.quine.sh/vikasharma005/github" alt="Vikas Sharma's GitHub stats" width="340px"></a>
-![Vikas Sharma's Stack Overflow achievements](https://stats.quine.sh/vikasharma005/stack-overflow)
+![Vikas Sharma's Stack Overflow achievements](https://stats.quine.sh/201464505/stack-overflow)
