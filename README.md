@@ -9,7 +9,7 @@
 
 ### Streetcred:
 
-<a href="https://www.tublian.com/profile/vikasharma005?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/vikasharma005?type=without_score"></a>
+<a href="https://www.tublian.com/profile/vikasharma005?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/vikasharma005?type=with_score"></a>
 
 ### My Stack:
 
