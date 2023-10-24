@@ -45,7 +45,7 @@
 **
 
 <a href="https://portfolio-vikasharma005.vercel.app/" target="_blank">
-      <img src="" width="400px">
+      <img src="https://user-images.githubusercontent.com/93978146/268505561-6b25d51b-5130-4a7c-ba8e-123bb44e0e9d.png" width="400px">
 </a>
 </div>
                   
