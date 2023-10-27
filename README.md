@@ -249,36 +249,17 @@
   </a>
 </div>
 
-###
-
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=005sharma.vikas&theme=swift" alt="Layout with last medium posts"  />
+<div style="text-align: center;">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=005sharma.vikas&theme=swift" alt="Layout with last medium posts" />
 </div>
 
-<div>
-
-<div>
-<div id="pinned-card">
-
-### <a href="https://portfolio-vikasharma005.vercel.app/" target="_blank">Vikas Sharma | Portfolio</a>
-**
-
-<a href="https://portfolio-vikasharma005.vercel.app/" target="_blank">
-      <img src="https://user-images.githubusercontent.com/93978146/268505561-6b25d51b-5130-4a7c-ba8e-123bb44e0e9d.png" width="400px">
-</a>
-</div>
-                  
-
-<br/>
 
 
+### Articles
 
-<div>
-<div id="pinned-card">
-
-### <a href="https://www.linkedin.com/pulse/python-library-lazy-predict-one-tool-you-need-vikas-sharma" target="_blank">Python library - Lazy predict: the one tool you need</a>
+<a href="https://www.linkedin.com/pulse/python-library-lazy-predict-one-tool-you-need-vikas-sharma" target="_blank">Python library - Lazy predict: the one tool you need</a>
 *Python is a versatile language that you can use for just about anything. And one of the great things about Python is that there are so many libraries out there that make it even more powerful.*
 
 <a href="https://www.linkedin.com/pulse/python-library-lazy-predict-one-tool-you-need-vikas-sharma" target="_blank">
